@@ -49,13 +49,13 @@
 
 - WMPF 版本：11581, 11633, 13331, 13341, 13487, 13639, 13655, 13871, 13909, 14161, 14199, 14315, 16133, 16203, 16389, 16467, 16771, 16815, 16965, 17037, 17071, 17127, 18055, 18151, 18787, 18891, 18955, 19027, 19201（实时更新）,19977(微信群友“执守中一”)
 - 推荐微信版本：**4.1.10**
-- 下载地址：[weixin/4.1.0.30](https://github.com/vs-olitus/wx-version/releases/tag/4.1.10-windows)
+- 下载地址：[weixin/4.1.10](https://github.com/vs-olitus/wx-version/releases/tag/4.1.10-windows)
 
 ### macOS
 
 - WMPF 版本：19978(微信群友“人杰提供”), 17078, 18152, 18788（实时更新）
 - 推荐微信版本：**4.1.10**
-- 下载地址：[weixin/4.1.10.30](https://github.com/vs-olitus/wx-version/releases/tag/4.1.10-mac)
+- 下载地址：[weixin/4.1.10](https://github.com/vs-olitus/wx-version/releases/tag/4.1.10-mac)
 
 ## 快速开始
 
@@ -96,5 +96,5 @@ sudo codesign --force --deep --sign - /Applications/WeChat.app
 ## 交流群
 
 群满 200 人后需要手动邀请，请加我拉群：
-
+<img src="https://s1.galgame.fun/imgb/u55/20260622_6a389cbd40f43.jpg" alt="微信群二维码" width="300" />
 <img src="https://s1.galgame.fun/imgb/u55/20260601_6a1d196618084.png" alt="微信二维码" width="300" />
